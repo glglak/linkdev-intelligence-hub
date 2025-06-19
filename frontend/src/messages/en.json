@@ -1,0 +1,44 @@
+{
+  "navigation": {
+    "home": "Home",
+    "reports": "Reports",
+    "insights": "Insights",
+    "vendors": "Vendors",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "register": "Register"
+  },
+  "hero": {
+    "title": "Technology Intelligence",
+    "subtitle": "Platform for MENA",
+    "description": "Comprehensive technology reports and analysis for the Arab region with strategic insights for decision makers",
+    "viewReports": "View Reports",
+    "exploreInsights": "Explore Insights"
+  },
+  "reports": {
+    "title": "Technology Reports",
+    "subtitle": "Comprehensive insights and analysis for the regional technology market",
+    "featured": "Featured Reports",
+    "featuredDescription": "Latest technology reports and analysis in the region",
+    "readMore": "Read More",
+    "tiers": {
+      "free": "Free",
+      "pro": "Professional",
+      "enterprise": "Enterprise"
+    }
+  },
+  "common": {
+    "readMore": "Read More",
+    "download": "Download",
+    "share": "Share",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "viewAll": "View All"
+  },
+  "cta": {
+    "title": "Start Your Journey with Technology Intelligence",
+    "description": "Get the latest technology reports and analysis to make informed decisions",
+    "getStarted": "Get Started",
+    "contactSales": "Contact Sales"
+  }
+}
